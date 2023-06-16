@@ -1,0 +1,22 @@
+.input-redondo {
+    border-radius: 10px;
+    width: 150%;
+  }
+  .content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  body{
+    background-image: url(imagens/fundo-de-papel-de-parede-abstrato-escuro-desenho-de-fumaca.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+  }
+  .content input[type="submit"]{
+    background-color: green;
+    color: white;
+  }
+  .content{
+    color: white;
+  }

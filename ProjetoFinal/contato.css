@@ -1,0 +1,33 @@
+.input-redondo {
+    border-radius: 10px;
+  }
+  
+
+.contato{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.submit{
+    background-color: green;
+}
+body{
+    background-image: url(imagens/fundo-de-papel-de-parede-abstrato-escuro-desenho-de-fumaca.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+  }
+  .contato input[type="submit"]{
+    background-color: green;
+    color: white;
+  }
+  .contato{
+    color: white;
+  }
+  .rodapé{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+  }
